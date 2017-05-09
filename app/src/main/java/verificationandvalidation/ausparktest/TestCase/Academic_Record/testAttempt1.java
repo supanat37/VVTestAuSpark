@@ -1,4 +1,4 @@
-package verificationandvalidation.ausparktest.Academic_Record;
+package verificationandvalidation.ausparktest.TestCase.Academic_Record;
 
 import org.junit.Before;
 import org.junit.Test;
